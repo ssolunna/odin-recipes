@@ -1,0 +1,55 @@
+/* styles.css */
+
+#odin {
+  background-color: goldenrod;
+  color: white;
+  text-align: center;
+  font-family: Monaco, 'Lucida Console', monospace;
+  font-weight: bold;
+}
+
+.link li,
+.link a {
+  text-align: center;
+  color: gold;
+  font-family: monospace;
+  font-size: large;
+}
+
+.link a {
+  color: goldenrod;
+}
+
+h1 {
+  text-align: center;
+  font-family: monospace;
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-color: goldenrod;
+}
+
+div,
+h2,
+h3,
+li,
+p,
+h6,
+h6 a {
+  text-align: center;
+  font-family: monospace;
+  color: goldenrod;
+}
+
+div img {
+  height: 300px;
+  width: auto;
+}
+
+li,
+p {
+  color: black;
+}
+
+p {
+  font-weight: bold;
+}
