@@ -1,3 +1,2 @@
-<h1 align="center">Odin recipes</h1>
-
-<p align="center">This is a project called <strong>"Recipes"</strong> for <a href="https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes"><em>The Odin Project</em></a> that has all the basic HTML and CSS knowledge that I have acquired so far from the said website.</p>
+# Odin recipes
+This project was made for the [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)'s curriculum.
